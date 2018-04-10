@@ -1,0 +1,9 @@
+name: waitgroup
+version: 0.1.0
+
+authors:
+  - n7olkachev <n7olkachev@gmail.com>
+
+crystal: 0.24.2
+
+license: MIT
